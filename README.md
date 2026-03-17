@@ -4,7 +4,7 @@
     I am a developer that works in Javascript, Java, Python, and many more!
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=whois-MidNight" alt="https://github.com/whois-MidNight" />
+  <img src="https://komarev.com/ghpvc/?username=ThatKJ" alt="https://github.com/ThatKJ" />
 </p>
 
 <hr>
