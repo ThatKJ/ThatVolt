@@ -24,10 +24,14 @@
 </p>
 
 <hr>
-
-<h2 align="center">🤔 More Info</h2>
-<p align=center >
-  <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=ThatVolt&bg_color=1e2124&text_color=8291ff&title_color=8291ff&icon_color=8291ff&show_icons=true&border_color=aaa&border_radius=24" />
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ThatKJ&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ThatKJ&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
